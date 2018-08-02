@@ -6,5 +6,3 @@ module.exports = function main() {
 	  return res;
   }
 };
-function result(9,4);
-function result(9,3);
